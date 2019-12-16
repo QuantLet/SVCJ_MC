@@ -2,7 +2,7 @@ Name of QuantLet : SVCJ_MC
 
 Published in : Hedging under jump induced market incompleteness
 
-Description : 'Simulation of the Euler-discretized Stochastic Volatility with Correlated Jumps model and Monte Carlo Option Pricing
+Description : 'Simulation of the Euler-discretized Stochastic Volatility with Correlated Jumps model and Monte Carlo Option Pricing'
 
 Keywords : 'Euler discretization, Monte Carlo Option Pricing, SVCJ, Darrel Duffie, Cryptocurrencies'
 
